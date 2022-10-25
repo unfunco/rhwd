@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "rhwd_examples"
+version = "0.1.0"
+
+[dependencies]
+rhwd = { path = "../rhwd_proc_macro" }
