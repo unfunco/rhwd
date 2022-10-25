@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+homepage = "https://github.com/unfunco/rhwd"
+keywords = ["rhwd", "rust", "cymraeg", "welsh"]
+name = "rhwd"
+version = "0.1.0"
+
+[lib]
+proc-macro = true
